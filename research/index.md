@@ -8,27 +8,26 @@ title: Research
 ## Current Research
 
 
-### Reach-scale channel classification
+	### Reach-scale channel classification
 
 
-### Geomorphic variability of streams
+	### Geomorphic variability of streams
 
 
-### Unsteady flood wave hydrodynamics
+	### Unsteady flood wave hydrodynamics
 
-#### Flood wave attenuation
-
-
-#### Lateral floodplain connectivity
+		#### Flood wave attenuation
 
 
-Publications: Byrne et al. (2019); Stone et al. (2017)
+		#### Lateral floodplain connectivity
+		
+				Publications: Byrne et al. (2019); Stone et al. (2017)
 
-#### Estuarine connectivity
+		#### Estuarine connectivity
 
 
 ## Past Research
 
-### Geomorphic mine reclamation
+	### Geomorphic mine reclamation
 
-Publications: Byrne et al. (2017)
+		Publications: Byrne et al. (2017)
