@@ -1,9 +1,9 @@
 ---
-layout: default
-title: Colin Byrne's CV
+layout: cv
+title: "Colin Byrne"
 ---
 
-<h1>{{ page.title }}</h1>
+# Colin F. Byrne
 
 ### EDUCATION
 
@@ -16,8 +16,7 @@ title: Colin Byrne's CV
 
 ### PROFESSIONAL APPOINTMENTS
 
-<b>2017 to present</b> Postdoctoral Scholar, University of California Davis
-Department of Land, Air & Water Resources
+<b>2017 to present</b> Postdoctoral Scholar, University of California Davis, Department of Land, Air & Water Resources
 
 ### PUBLICATIONS
 
