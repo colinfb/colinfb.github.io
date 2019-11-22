@@ -3,13 +3,13 @@ layout: default
 title: Research
 ---
 
-# Reach-scale channel classification
+## Reach-scale channel classification
 
 
-# Geomorphic variability of streams
+## Geomorphic variability of streams
 
 
-# Unsteady flood wave hydrodynamics
+## Unsteady flood wave hydrodynamics
 
 ### Flood wave attenuation
 
