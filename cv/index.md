@@ -3,18 +3,15 @@ layout: default
 title: Colin Byrne's CV
 ---
 
-# Colin F. Byrne
+<h1>{{ page.title }}</h1>
 
 ### EDUCATION
 
-<b>2017</b>	Ph.D. Civil Engineering – Water Resources
-University of New Mexico
+<b>2017</b>	Ph.D. Civil Engineering – Water Resources, University of New Mexico
 
-<b>2009</b>	M.S. Biological Systems Engineering
-	University of Wisconsin – Madison
+<b>2009</b>	M.S. Biological Systems Engineering, University of Wisconsin – Madison
 	
-<b>2006</b>	B.S. Zoology
-		University of Wisconsin – Madison
+<b>2006</b>	B.S. Zoology, University of Wisconsin – Madison
 
 
 ### PROFESSIONAL APPOINTMENTS
