@@ -17,13 +17,15 @@ title: Research
 
 #### Lateral floodplain connectivity
 		
-	Publications: Byrne et al. (2019); Stone et al. (2017)
+Publications: Byrne et al. (2019); Stone et al. (2017)
+<br/><br/>  
 
 #### Estuarine connectivity
 
+<br/><br/>
 
 ## Past Research
 
 ### Geomorphic mine reclamation
 
-		Publications: Byrne et al. (2017)
+Publications: Byrne et al. (2017)
