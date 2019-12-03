@@ -22,8 +22,7 @@ Although dimensionality (i.e. width and depth) of streams throughout the world g
 ## Lateral floodplain connectivity	
 Publications: Byrne et al. (2019); Stone et al. (2017)
 <br/><br/> 
-![Lower connectivity](/images/pulse_01.jpg) 
-![Higher connectivity](/images/pulse_02.jpg_)
+![Lower connectivity](/images/pulse_01.jpg) ![Higher connectivity](/images/pulse_02.jpg)
 #### Changing lateral surface connectivity along the Rio Grande, Albuquerque, New Mexico, USA.
 <br/><br/>  
 
