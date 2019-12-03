@@ -5,7 +5,7 @@ title: About Me
 
 # {{ page.title }}
 
-<img src="../images/me_ella_animas_crop.jpg/" alt="Animas" width="300"/>
+<img src="images/me_ella_animas_crop.jpg/" alt="Animas" width="600">
 
 ## Current position
 
