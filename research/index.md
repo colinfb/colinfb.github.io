@@ -16,20 +16,26 @@ Geomorphic classification remains the most efficient method for management of en
 Although dimensionality (i.e. width and depth) of streams throughout the world generally adhere to at-a-station and downstream hydraulic geometry relationships, those relationships exhibit order-of-magnitude variability. Various physical mechanisms are responsible for variability in channel form. One of those mechanisms is flow convergence routing. While flow convergence routing landforms have been identified along single reaches, this research focuses on the frequency of those landforms across the state of California. In addition, we are assessing whether or not those forms represent observable processes shown in empirical studies.
 <br/><br/>
 ![Sierra oversized channel](/images/Sierra_riffle_pool.png)
-<br/><br/>
-
-## Flood wave attenuation
+#### Oversized pool in the Sierra Nevada.
 <br/><br/>
 
 ## Lateral floodplain connectivity	
 Publications: Byrne et al. (2019); Stone et al. (2017)
+<br/><br/> 
+![Lower connectivity](/images/pulse_01.jpg) ![Higher connectivity](/images/pulse_02.jpg_)
+#### Changing lateral surface connectivity along the Rio Grande, Albuquerque, NM.
 <br/><br/>  
 
-## Estuarine restoration
-
+## Flood wave attenuation
 <br/><br/>
 
-## Past Research
+## Estuarine restoration
+<br/><br/> 
+![CO River Estuary](/images/COdelta.png)
+#### Colorado River upper estuary, Baja California, Mexico.
+<br/><br/>
 
-### Geomorphic mine reclamation
+## Geomorphic mine reclamation
 Publications: Byrne et al. (2017)
+<br/><br/>
+![La Plata Mine](/images/La_Plata_02.jpg)
