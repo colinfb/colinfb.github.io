@@ -5,7 +5,7 @@ title: About Me
 
 # {{ page.title }}
 
-![Colin Byrne](/images/me_ella_animas_crop.jpg)
+![Colin and Ella in Durango along the Animas River](/images/me_ella_animas_crop.jpg)
 
 ## Current position
 
