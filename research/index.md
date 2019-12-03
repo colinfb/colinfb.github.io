@@ -27,7 +27,7 @@ Publications: Byrne et al. (2019); Stone et al. (2017)
 <br/><br/>  
 
 ## Flood wave attenuation
-![Rio Grande](/images/RioGrande.jpg_)
+![Rio Grande](/images/RioGrande.jpg)
 #### Floodplain about to inundate, Rio Grande, Albuquerque, New Mexico, USA.
 <br/><br/>
 
