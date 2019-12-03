@@ -5,7 +5,7 @@ title: About Me
 
 # {{ page.title }}
 
-![Colin Byrne](/images/me_ella_animas_crop.jpg)
+<img src="images/me_ella_animas_crop.jpg/" alt="Animas" width="400"/>
 
 ## Current position
 
