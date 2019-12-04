@@ -9,10 +9,10 @@ I'm a early career scientist interested in geomorphic form in rivers and associa
 
 Thanks for your interest. Please connect to my other pages for more information:
 
-	* [A brief bio](https://colinfb.github.io/about/)
-	* [A more in-depth look at my research](https://colinfb.github.io/research/)
-	* [A downloadable PDF-version of my CV](https://colinfb.github.io/documents/CFByrne_cv.pdf)
-	* [Pictures of my dogs](https://colinfb.github.io/dogs/)
+* [A brief bio](https://colinfb.github.io/about/)
+* [A more in-depth look at my research](https://colinfb.github.io/research/)
+* [A downloadable PDF-version of my CV](https://colinfb.github.io/documents/CFByrne_cv.pdf)
+* [Pictures of my dogs](https://colinfb.github.io/dogs/)
 	
 ![Gila River](images/gila_channel.jpg)
 
