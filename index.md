@@ -3,7 +3,7 @@ layout: default
 title: Colin Byrne, PhD
 ---
 
-# Colin Byrne, PhD, River Scientist
+# Colin Byrne, PhD - River Scientist
 
 I'm a early career scientist interested in geomorphic form in rivers and associated hydrodynamics that influence ecological conditions of rivers.
 
