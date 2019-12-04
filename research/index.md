@@ -13,7 +13,7 @@ Geomorphic classification remains the most efficient method for management of en
 <br/><br/>
 
 ## Geomorphic variability of streams
-Although dimensionality (i.e. width and depth) of streams throughout the world generally adhere to at-a-station and downstream hydraulic geometry relationships, those relationships exhibit order-of-magnitude variability. Various physical mechanisms are responsible for variability in channel form. One of those mechanisms is flow convergence routing. While flow convergence routing landforms have been identified along single reaches, this research focuses on the frequency of those landforms across the state of California. In addition, we are assessing whether or not those forms represent observable processes shown in empirical studies.
+Although the dimensionality (i.e. width and depth) of streams throughout the world generally adheres to at-a-station and downstream hydraulic geometry relationships, those relationships exhibit order-of-magnitude variability. Various physical mechanisms are responsible for variability in channel form. One of those mechanisms is flow convergence routing. While flow convergence routing landforms have been identified along single reaches, this research focuses on the frequency of those landforms across the state of California. In addition, we are assessing whether or not those forms represent observable processes shown in empirical studies.
 <br/><br/>
 ![Sierra oversized channel](/images/Sierra_riffle_pool.png)
 #### Oversized pool in the Sierra Nevada, California, USA.
