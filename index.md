@@ -13,4 +13,6 @@ Thanks for your interest. Please connect to my other pages for more information:
 	* [A more in-depth look at my research](https://colinfb.github.io/research/)
 	* [A downloadable PDF-version of my CV](https://colinfb.github.io/documents/CFByrne_cv.pdf)
 	* [Pictures of my dogs](https://colinfb.github.io/dogs/)
+	
+![Gila River](images/gila_channel.jpg)
 
